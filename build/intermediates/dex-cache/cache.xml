@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gama/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_02e823db0b1ce2ea03da1c832eac2a98e43a5e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_5401aa142067b89461e72952d147b7293344c5a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_9acd8aab24e5cfb6f8d89232c7996bf4b939b8e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_885f507420ff38012f69ed1bef205ea9e7a47893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.0.0/kotlin-stdlib-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2db5ac6eb2746708e77e4c439625f9331c25e766">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.0_059e4f979aac6d6a20d40939683cc9f4bee2a3b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/.android/build-cache/3cc9933e6552efcdd6fe84f82feaaf2eca648ea1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85885a32a7b4dd8fac9a9e8673425010fa444b0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_04eddbdac4bbb53d59ba24b4074263049729aa27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_70aecd17d3bca12a6f248759e017f4a3b1f734c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9943988b72a589dc90619433e617a8010a5059b2">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c9f1dfb663b38d64274e16b006177c2e36a07ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/kotlin/kotlin-runtime/1.0.0/kotlin-runtime-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8739b3cd3bf98584cf2d1cabf59b55dbd5f7349d">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.0_95a0bb5db4380016fc0bd3de84e8f8f7ff1e814b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/gama/Workspace/android/PhotoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e061d99ef45febc22bddac9f87ece3bb22930ab6/classes.dex" />
+    </item>
+
+</items>
